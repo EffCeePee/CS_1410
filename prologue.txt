@@ -1,0 +1,29 @@
+// File Prologue
+// Name: Franklin Colton Parry
+// Section: 01
+// Project: Project 1
+// Date:  5/11/2013
+
+
+// I declare that the following source code was written by me, or provided
+// by the instructor for this project. I understand that copying
+// source code from any other source constitutes cheating, and that I will
+// receive a zero grade on this project if I am found in violation of
+// this policy.
+// ________________________________________________________________________
+
+
+#include <iostream>
+#include <string>
+#include <iomanip>
+using namespace std;
+
+
+
+int main( )
+{
+
+
+system("PAUSE");
+	return 0;
+} // end main

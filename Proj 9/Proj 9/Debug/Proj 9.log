@@ -1,0 +1,42 @@
+﻿  hourly.cpp
+c:\users\f\desktop\cs 1410\proj 9\proj 9\hourly.cpp(95): error C2061: syntax error : identifier 'emps'
+c:\users\f\desktop\cs 1410\proj 9\proj 9\hourly.cpp(101): error C2065: 'emp' : undeclared identifier
+c:\users\f\desktop\cs 1410\proj 9\proj 9\hourly.cpp(101): error C2228: left of '.getEmpNum' must have class/struct/union
+          type is ''unknown-type''
+c:\users\f\desktop\cs 1410\proj 9\proj 9\hourly.cpp(101): error C2065: 'emp' : undeclared identifier
+c:\users\f\desktop\cs 1410\proj 9\proj 9\hourly.cpp(101): error C2228: left of '.getName' must have class/struct/union
+          type is ''unknown-type''
+c:\users\f\desktop\cs 1410\proj 9\proj 9\hourly.cpp(101): error C2065: 'emp' : undeclared identifier
+c:\users\f\desktop\cs 1410\proj 9\proj 9\hourly.cpp(101): error C2228: left of '.getStrAddress' must have class/struct/union
+          type is ''unknown-type''
+c:\users\f\desktop\cs 1410\proj 9\proj 9\hourly.cpp(101): error C2065: 'emp' : undeclared identifier
+c:\users\f\desktop\cs 1410\proj 9\proj 9\hourly.cpp(101): error C2228: left of '.getPhNum' must have class/struct/union
+          type is ''unknown-type''
+c:\users\f\desktop\cs 1410\proj 9\proj 9\hourly.cpp(102): error C2065: 'emp' : undeclared identifier
+c:\users\f\desktop\cs 1410\proj 9\proj 9\hourly.cpp(102): error C2228: left of '.getHrsWorked' must have class/struct/union
+          type is ''unknown-type''
+c:\users\f\desktop\cs 1410\proj 9\proj 9\hourly.cpp(102): error C2065: 'emp' : undeclared identifier
+c:\users\f\desktop\cs 1410\proj 9\proj 9\hourly.cpp(102): error C2228: left of '.getHrlyWage' must have class/struct/union
+          type is ''unknown-type''
+  driver.cpp
+c:\users\f\desktop\cs 1410\proj 9\proj 9\driver.cpp(109): error C2065: 's1' : undeclared identifier
+c:\users\f\desktop\cs 1410\proj 9\proj 9\driver.cpp(109): error C2228: left of '.writeData' must have class/struct/union
+          type is ''unknown-type''
+c:\users\f\desktop\cs 1410\proj 9\proj 9\driver.cpp(109): error C2065: 's1' : undeclared identifier
+c:\users\f\desktop\cs 1410\proj 9\proj 9\driver.cpp(110): error C2065: 'h2' : undeclared identifier
+c:\users\f\desktop\cs 1410\proj 9\proj 9\driver.cpp(110): error C2228: left of '.writeData' must have class/struct/union
+          type is ''unknown-type''
+c:\users\f\desktop\cs 1410\proj 9\proj 9\driver.cpp(110): error C2065: 'h2' : undeclared identifier
+c:\users\f\desktop\cs 1410\proj 9\proj 9\driver.cpp(111): error C2065: 's2' : undeclared identifier
+c:\users\f\desktop\cs 1410\proj 9\proj 9\driver.cpp(111): error C2228: left of '.writeData' must have class/struct/union
+          type is ''unknown-type''
+c:\users\f\desktop\cs 1410\proj 9\proj 9\driver.cpp(111): error C2065: 's2' : undeclared identifier
+c:\users\f\desktop\cs 1410\proj 9\proj 9\driver.cpp(118): error C2143: syntax error : missing ')' before '}'
+c:\users\f\desktop\cs 1410\proj 9\proj 9\driver.cpp(118): error C2059: syntax error : ')'
+  Generating Code...
+  Compiling...
+  employee.cpp
+  Generating Code...
+  Compiling...
+  salaried.cpp
+  Generating Code...

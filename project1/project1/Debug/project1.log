@@ -1,0 +1,20 @@
+﻿Build started 5/13/2013 5:14:22 PM.
+     1>Project "C:\Users\Colton\Desktop\CS 1410\project1\project1\project1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\project1.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Project 1.cpp"
+         Project 1.cpp
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Colton\Desktop\CS 1410\Project1\Debug\project1.exe" /NOLOGO /MANIFEST /ManifestFile:"Debug\project1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Colton\Desktop\CS 1410\Project1\Debug\project1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Colton\Desktop\CS 1410\Project1\Debug\project1.lib" /MACHINE:X86 "Debug\Project 1.obj"
+         project1.vcxproj -> C:\Users\Colton\Desktop\CS 1410\Project1\Debug\project1.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Colton\Desktop\CS 1410\Project1\Debug\project1.exe;#1" /manifest Debug\project1.exe.intermediate.manifest "c:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\project1.unsuccessfulbuild".
+         Touching "Debug\project1.lastbuildstate".
+     1>Done Building Project "C:\Users\Colton\Desktop\CS 1410\project1\project1\project1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:12.63

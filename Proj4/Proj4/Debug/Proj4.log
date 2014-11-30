@@ -1,0 +1,4 @@
+﻿  Proj4.cpp
+c:\users\f\desktop\cs 1410\proj4\proj4\proj4.cpp(43): warning C4700: uninitialized local variable 'averageVolts' used
+  LINK : C:\Users\F\Desktop\CS 1410\Proj4\Debug\Proj4.exe not found or not built by the last incremental link; performing full link
+  Proj4.vcxproj -> C:\Users\F\Desktop\CS 1410\Proj4\Debug\Proj4.exe

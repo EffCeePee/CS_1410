@@ -1,0 +1,26 @@
+﻿Build started 5/19/2013 11:27:52 PM.
+     1>Project "C:\Users\Colton\Desktop\CS 1410\Proj2a\Proj2a\Proj2a.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Proj2a.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt proj2a.cpp
+         proj2a.cpp
+     1>c:\users\colton\desktop\cs 1410\proj2a\proj2a\proj2a.cpp(64): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\colton\desktop\cs 1410\proj2a\proj2a\proj2a.cpp(105): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\colton\desktop\cs 1410\proj2a\proj2a\proj2a.cpp(64) : definition of 'i' ignored
+                 c:\users\colton\desktop\cs 1410\proj2a\proj2a\proj2a.cpp(54) : definition of 'i' used
+     1>c:\users\colton\desktop\cs 1410\proj2a\proj2a\proj2a.cpp(126): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Colton\Desktop\CS 1410\Proj2a\Debug\Proj2a.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Proj2a.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Colton\Desktop\CS 1410\Proj2a\Debug\Proj2a.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Colton\Desktop\CS 1410\Proj2a\Debug\Proj2a.lib" /MACHINE:X86 Debug\proj2a.obj
+         LINK : C:\Users\Colton\Desktop\CS 1410\Proj2a\Debug\Proj2a.exe not found or not built by the last incremental link; performing full link
+         Proj2a.vcxproj -> C:\Users\Colton\Desktop\CS 1410\Proj2a\Debug\Proj2a.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Colton\Desktop\CS 1410\Proj2a\Debug\Proj2a.exe;#1" /manifest Debug\Proj2a.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Proj2a.unsuccessfulbuild".
+         Touching "Debug\Proj2a.lastbuildstate".
+     1>Done Building Project "C:\Users\Colton\Desktop\CS 1410\Proj2a\Proj2a\Proj2a.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.60
